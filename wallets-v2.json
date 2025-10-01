@@ -28,6 +28,7 @@
     "about_url": "https://tonkeeper.com",
     "universal_url": "https://app.tonkeeper.com/ton-connect",
     "deepLink": "tonkeeper-tc://",
+    "runtime_config_url": "https://bridge.tonapi.io/runtime_config.json",
     "bridge": [
       {
         "type": "sse",
